@@ -1,0 +1,14 @@
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.AssemblyInfoInputs.cache
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.AssemblyInfo.cs
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\I.win 10 5011\Desktop\sample1\bin\Debug\net9.0\sample1.exe
+C:\Users\I.win 10 5011\Desktop\sample1\bin\Debug\net9.0\sample1.deps.json
+C:\Users\I.win 10 5011\Desktop\sample1\bin\Debug\net9.0\sample1.runtimeconfig.json
+C:\Users\I.win 10 5011\Desktop\sample1\bin\Debug\net9.0\sample1.dll
+C:\Users\I.win 10 5011\Desktop\sample1\bin\Debug\net9.0\sample1.pdb
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.dll
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\refint\sample1.dll
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.pdb
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\sample1.genruntimeconfig.cache
+C:\Users\I.win 10 5011\Desktop\sample1\obj\Debug\net9.0\ref\sample1.dll
